@@ -1,0 +1,25 @@
+## Backlog
+
+### Problem
+
+> Give a description of the card. What is the problem you want to solve?
+
+### Why?
+
+> What will completion of this card gain us?
+
+> Link back to a Use Case or Functional Requirement that this will solve
+
+## Elaboration
+
+### How do we solve this?
+
+> Get as specific as possible, talk about specific files, endpoints, etc. Anyone should be able to pick up the card and complete it in basically the same way as anyone else
+
+### When do we know this is done?
+
+> Outline acceptance criteria
+
+### Tests!?!!?!
+
+> Describe the tests that need to be implemented. If it's a complicated feature, get descriptive. Otherwise it's fine to be less verbose.
